@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image("Campus")
-            Text("Ankush Rana")
+            Text("Ankush")
                 .bold()
             Text("Contact-  +1(365)8835722")
             Text("Gmail - ankushrana767@gmail.com")
